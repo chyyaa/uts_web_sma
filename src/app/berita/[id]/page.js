@@ -2,6 +2,13 @@ import Image from "next/image";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import berita from "../../../data/berita";
+
+export function generateStaticParams() {
+  return berita.map((item) => ({
+    id: item.slug,
+  }));
+}
+
 function SidebarKiri() {
   return (
     <aside className="space-y-5">
