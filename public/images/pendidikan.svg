@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#FEF3C7"/>
+  <circle cx="730" cy="100" r="130" fill="#B45309" opacity=".12"/>
+  <circle cx="130" cy="510" r="170" fill="#B45309" opacity=".10"/>
+  <rect x="250" y="130" width="400" height="270" rx="24" fill="white" opacity=".85"/>
+  <path d="M290 220 L450 130 L610 220 Z" fill="#B45309"/>
+  <rect x="320" y="220" width="260" height="150" rx="8" fill="#FEF3C7"/>
+  <g fill="#B45309">
+    <rect x="350" y="245" width="48" height="55" rx="5"/>
+    <rect x="426" y="245" width="48" height="55" rx="5"/>
+    <rect x="502" y="245" width="48" height="55" rx="5"/>
+    <rect x="425" y="315" width="50" height="55" rx="5"/>
+  </g>
+  <text x="450" y="470" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#B45309" text-anchor="middle">PENDIDIKAN</text>
+  <text x="450" y="510" font-family="Arial, sans-serif" font-size="20" fill="#B45309" text-anchor="middle">SMA AL ISLAM 1 SURAKARTA</text>
+</svg>

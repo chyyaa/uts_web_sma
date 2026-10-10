@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600">
+  <rect width="900" height="600" fill="#FCE7F3"/>
+  <circle cx="730" cy="100" r="130" fill="#BE185D" opacity=".12"/>
+  <circle cx="130" cy="510" r="170" fill="#BE185D" opacity=".10"/>
+  <rect x="250" y="130" width="400" height="270" rx="24" fill="white" opacity=".85"/>
+  <path d="M290 220 L450 130 L610 220 Z" fill="#BE185D"/>
+  <rect x="320" y="220" width="260" height="150" rx="8" fill="#FCE7F3"/>
+  <g fill="#BE185D">
+    <rect x="350" y="245" width="48" height="55" rx="5"/>
+    <rect x="426" y="245" width="48" height="55" rx="5"/>
+    <rect x="502" y="245" width="48" height="55" rx="5"/>
+    <rect x="425" y="315" width="50" height="55" rx="5"/>
+  </g>
+  <text x="450" y="470" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="#BE185D" text-anchor="middle">PRESTASI</text>
+  <text x="450" y="510" font-family="Arial, sans-serif" font-size="20" fill="#BE185D" text-anchor="middle">SMA AL ISLAM 1 SURAKARTA</text>
+</svg>
